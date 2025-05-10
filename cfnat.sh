@@ -12,7 +12,7 @@ YELLOW='\033[0;33m'
 GREEN='\033[0;32m'
 NC='\033[0m'
 
-MIRROR_PREFIX="https://p.goxo.us.kg/zxxc/https/"
+MIRROR_PREFIX="https://ghfast.top/https/"
 if [ ! -d "$INSTALL_DIR" ]; then
     echo -e "${GREEN}程序目录不存在，正在创建...${NC}"
     mkdir -p "$INSTALL_DIR"
